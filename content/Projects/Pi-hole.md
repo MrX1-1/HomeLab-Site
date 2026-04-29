@@ -1,4 +1,4 @@
-![Pi-holeLogo](images/piholelogo.png)
+![Pi-holeLogo](Images/piholelogo.png)
 
 ## Deploying Pi-hole on my Home Network  
 **Objective**: Protect Network Devices from Ads, Trackers, and Malicious Domains
