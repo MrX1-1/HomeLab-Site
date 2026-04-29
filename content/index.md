@@ -1,4 +1,5 @@
-# My Homelab
+title: ""
+# Welcome to My Homelab!
 
 Welcome, friend!  
 
