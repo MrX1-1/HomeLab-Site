@@ -65,7 +65,7 @@ At this point, Pi-hole is up and running, **but with one catch**: It is not yet 
 </div>
 <br>
 <img src="Images/dns.png" width="450"> 
-<p><strong><em>Image of DNS Server Settings</em></strong></p>
+<p><strong><em>Image of My DNS Server Settings</em></strong></p>
 
 <br>
 

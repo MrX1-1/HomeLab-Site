@@ -10,7 +10,3 @@ for soon it shall be a sight that you shall all marvel at.
 
 <img src="Images/homelabpic.webp" width="500">
 
-# Projects
-- Pi-hole Deployment
-- Watchdog Auto-Reboot
-- Router Security Configuration
